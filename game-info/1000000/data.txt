@@ -1,1 +1,1 @@
-["10000-00", "Developer Menu", "MarrtyFDGU", "https://realmarrtyfdgu.github.io/scratchlauncher3/games/1000000"]
+["10000-00", "Developer Menu", "MarrtyFDGU", "DMA 0.1", "https://realmarrtyfdgu.github.io/scratchlauncher3/games/1000000"]
