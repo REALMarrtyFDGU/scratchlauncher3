@@ -1,2 +1,2 @@
-Name - GAMEID
+Here is a list of all the games (listed like GameName - GameID):
 Scratch Launcher 3 Browser - 1000100
