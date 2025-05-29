@@ -1,1 +1,1 @@
-["10001-00", "Scratch Launcher 3 Browser", "MarrtyFDGU", "1.0", "https://realmarrtyfdgu.github.io/scratchlauncher3/games/1000100", "Hey Web Searchers! This line is not used but is needed for a translated title. Cool right?"]
+["10001-00", "Scratch Launcher 3 Browser", "MarrtyFDGU", "1.0", "https://realmarrtyfdgu.github.io/scratchlauncher3/games/1000100"]
